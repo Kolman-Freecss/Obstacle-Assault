@@ -1824,3 +1824,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.17-12.49.58:919][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms
 [2023.03.17-12.49.58:924][159]AssetCheck: New page: Asset Save: Main
 [2023.03.17-12.49.58:924][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.03.17-12.57.36:949][794]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.57.36:954][794]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
+[2023.03.17-12.57.36:982][794]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
+[2023.03.17-12.57.36:982][794]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.58.29:480][ 77]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
+[2023.03.17-12.58.29:482][ 77]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.58.29:515][ 77]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
+[2023.03.17-12.58.29:515][ 77]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.59.03:824][180]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.59.03:827][180]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
+[2023.03.17-12.59.03:860][180]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalGalvanized_BC.uasset has malformed tag
+[2023.03.17-12.59.03:860][180]LogAssetRegistry: Error: Package D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/LearningKit_Games/MaterialLibrary/Static/T_EnvTile_MetalBrushed_N.uasset has malformed tag
