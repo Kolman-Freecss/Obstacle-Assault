@@ -1354,3 +1354,260 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.21-18.37.50:032][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 1.31 sec)
 [2023.03.21-18.37.50:156][309]AssetCheck: New page: Asset Save: Main
 [2023.03.21-18.37.50:156][309]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.03.21-18.38.48:763][575]LogViewport: Scene viewport resized to 448x257, mode Windowed.
+[2023.03.21-18.38.57:624][954]LogViewport: Scene viewport resized to 448x257, mode Windowed.
+[2023.03.21-18.39.01:385][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.39.01:453][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-18.39.01:464][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.03.21-18.39.01:549][118]LogSavePackage: Moving output files for package: /Game/Main
+[2023.03.21-18.39.01:549][118]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/Main7367A060499BEBC465091FA11B28BEAA.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap'
+[2023.03.21-18.39.01:557][118]LogFileHelpers: Saving map 'Main' took 0.105
+[2023.03.21-18.39.01:578][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.51 sec)
+[2023.03.21-18.39.01:588][118]AssetCheck: New page: Asset Save: Main
+[2023.03.21-18.39.01:588][118]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.03.21-18.39.14:950][597]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-18.39.14:950][597]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-18.39.14:951][597]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-18.39.14:951][597]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.21-18.39.15:015][597]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.21-18.39.21:422][954]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2023.03.21-18.39.21:423][954]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.03.21-18.39.22:788][954]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2023.03.21-18.39.22:872][954]LogViewport: Scene viewport resized to 1261x778, mode Windowed.
+[2023.03.21-18.39.24:600][ 20]LogViewport: Scene viewport resized to 1525x974, mode Windowed.
+[2023.03.21-18.39.24:674][ 21]LogViewport: Scene viewport resized to 1523x993, mode Windowed.
+[2023.03.21-18.39.24:776][ 23]LogViewport: Scene viewport resized to 467x227, mode Windowed.
+[2023.03.21-18.39.24:896][ 28]LogViewport: Scene viewport resized to 1525x974, mode Windowed.
+[2023.03.21-18.39.25:220][ 48]LogSlate: Window 'BP_PushingCube' being destroyed
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: ================================================
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Total job queries 218, among them cache hits 24 (11.01%)
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 97 distinct outputs (50.79%)
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: RAM used: 1.40 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 0.84 s
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 0.94
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.94 s
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Average processing rate: 1.06 jobs/sec
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Total thread time: 0.50 s
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Total thread preprocess time: 0.06 s
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Percentage time preprocessing: 11.27%
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Effective parallelization: 0.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2023.03.21-18.39.35:245][965]LogShaderCompilers: Display: ================================================
+[2023.03.21-18.40.06:405][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.40.06:478][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PushingCube" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset" SILENT=true
+[2023.03.21-18.40.06:481][849]LogSavePackage: Moving output files for package: /Game/BP_PushingCube
+[2023.03.21-18.40.06:481][849]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_PushingCubeBA1CC6354F97E30355A714BE2C20911E.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset'
+[2023.03.21-18.40.06:518][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.62 sec)
+[2023.03.21-18.40.06:551][849]AssetCheck: New page: Asset Save: BP_PushingCube
+[2023.03.21-18.40.06:551][849]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2023.03.21-18.40.55:851][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.40.55:912][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PushingCube" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset" SILENT=true
+[2023.03.21-18.40.55:915][184]LogSavePackage: Moving output files for package: /Game/BP_PushingCube
+[2023.03.21-18.40.55:916][184]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_PushingCube1311CE2449DAC2D1411815A7217664D2.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset'
+[2023.03.21-18.40.55:934][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.70 sec)
+[2023.03.21-18.40.55:944][184]AssetCheck: New page: Asset Save: BP_PushingCube
+[2023.03.21-18.40.55:944][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2023.03.21-18.41.05:540][505]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_PushingCube.BP_PushingCube_C
+[2023.03.21-18.41.05:541][505]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_PushingCube.BP_PushingCube_C
+[2023.03.21-18.41.05:542][505]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_PushingCube.BP_PushingCube as actor: BP_PushingCube_C /Game/Main.Main:PersistentLevel.BP_PushingCube_C_0
+[2023.03.21-18.41.05:543][505]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_PushingCube.BP_PushingCube as actor: BP_PushingCube_C /Game/Main.Main:PersistentLevel.BP_PushingCube_C_0
+[2023.03.21-18.41.05:549][505]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.03.21-18.41.06:274][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_PushingCube.BP_PushingCube_C
+[2023.03.21-18.41.06:274][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_PushingCube.BP_PushingCube_C
+[2023.03.21-18.41.06:276][538]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_PushingCube.BP_PushingCube as actor: BP_PushingCube_C /Game/Main.Main:PersistentLevel.BP_PushingCube_C_1
+[2023.03.21-18.41.06:278][538]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_PushingCube.BP_PushingCube as actor: BP_PushingCube_C /Game/Main.Main:PersistentLevel.BP_PushingCube_C_1
+[2023.03.21-18.41.23:291][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.41.23:334][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PushingCube" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset" SILENT=true
+[2023.03.21-18.41.23:336][902]LogSavePackage: Moving output files for package: /Game/BP_PushingCube
+[2023.03.21-18.41.23:337][902]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_PushingCube00F98FFE4D21B92BCBA0A994E3FB7495.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_PushingCube.uasset'
+[2023.03.21-18.41.23:349][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 1.76 sec)
+[2023.03.21-18.41.23:357][902]AssetCheck: New page: Asset Save: BP_PushingCube
+[2023.03.21-18.41.23:357][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_PushingCube.BP_PushingCube
+[2023.03.21-18.41.34:016][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.41.34:076][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-18.41.34:118][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.03.21-18.41.34:202][727]LogSavePackage: Moving output files for package: /Game/Main
+[2023.03.21-18.41.34:202][727]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/Main43EA0C0A4D3A7CA2DDCF4B8E1B5F47DC.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap'
+[2023.03.21-18.41.34:211][727]LogFileHelpers: Saving map 'Main' took 0.136
+[2023.03.21-18.41.34:227][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 1.97 sec)
+[2023.03.21-18.41.34:239][727]AssetCheck: New page: Asset Save: Main
+[2023.03.21-18.41.34:239][727]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.03.21-18.42.45:835][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.42.45:835][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.03.21-18.42.58:229][133]LogViewport: Scene viewport resized to 448x257, mode Windowed.
+[2023.03.21-18.43.16:378][468]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2023.03.21-18.43.28:855][734]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-18.43.28:855][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-18.43.28:894][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.43.28:894][734]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.03.21-18.44.27:709][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.44.27:824][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdPersonCharacter" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.21-18.44.27:830][859]LogSavePackage: Moving output files for package: /Game/BP_ThirdPersonCharacter
+[2023.03.21-18.44.27:831][859]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_ThirdPersonCharacter121423BD467D9BB6244579BF3A0EC424.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset'
+[2023.03.21-18.44.27:845][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.11 sec)
+[2023.03.21-18.44.27:856][859]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.21-18.44.27:856][859]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.44.35:018][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.44.35:096][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdPersonCharacter" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.21-18.44.35:101][520]LogSavePackage: Moving output files for package: /Game/BP_ThirdPersonCharacter
+[2023.03.21-18.44.35:102][520]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_ThirdPersonCharacterCAA7A25C4B6FDFC9BF620E93AE4D99E8.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset'
+[2023.03.21-18.44.35:119][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 2.21 sec)
+[2023.03.21-18.44.35:127][520]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.21-18.44.35:127][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.45.00:891][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.45.00:968][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdPersonCharacter" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.21-18.45.00:974][529]LogSavePackage: Moving output files for package: /Game/BP_ThirdPersonCharacter
+[2023.03.21-18.45.00:974][529]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_ThirdPersonCharacterB088095F47FC52384373D4B5FD29CF64.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset'
+[2023.03.21-18.45.00:990][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.31 sec)
+[2023.03.21-18.45.01:000][529]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.21-18.45.01:000][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.45.06:014][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.45.06:090][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdPersonCharacter" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.21-18.45.06:096][986]LogSavePackage: Moving output files for package: /Game/BP_ThirdPersonCharacter
+[2023.03.21-18.45.06:096][986]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_ThirdPersonCharacter0C3323E7411E837C0FD2DF9BC8D72D18.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset'
+[2023.03.21-18.45.06:106][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.40 sec)
+[2023.03.21-18.45.06:114][986]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.21-18.45.06:114][986]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.45.21:180][592]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.21-18.45.21:187][592]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.21-18.45.21:188][592]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.03.21-18.45.21:286][592]LogPlayLevel: [PlayLevel] Compiling BP_PushingCube before play...
+[2023.03.21-18.45.21:352][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.21-18.45.21:353][592]LogPlayLevel: PlayLevel: Blueprint regeneration took 166 ms (2 blueprints)
+[2023.03.21-18.45.21:353][592]PIE: New page: PIE session: Main (21 mar. 2023 20:45:21)
+[2023.03.21-18.45.21:354][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.03.21-18.45.21:386][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032760s)
+[2023.03.21-18.45.21:386][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.032798s)
+[2023.03.21-18.45.21:386][592]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.03.21-18.45.21:386][592]LogAIModule: Creating AISystem for world Main
+[2023.03.21-18.45.21:387][592]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2023.03.21-18.45.21:429][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.21-18.45.21:431][592]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.21-18.45.21:431][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.21-18.45.21:431][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-18.45.21:431][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-18.45.21:431][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-18.45.21:431][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-18.45.21:435][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.21-18.45.21:456][592]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2023.03.21-18.45.21:456][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-18.45.21:456][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-18.45.21:456][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-18.45.21:457][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.21-18.45.21:457][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.21-18.45.21:459][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.21-18.45.21:459][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.21-18.45.21:459][592]LogInit: FAudioDevice initialized.
+[2023.03.21-18.45.21:459][592]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.03.21-18.45.21:464][592]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.03.21-18.45.21:481][592]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.03.21-19.45.21
+[2023.03.21-18.45.23:508][592]LogWorld: Bringing up level for play took: 2.043646
+[2023.03.21-18.45.23:511][592]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.21-18.45.23:512][592]PIE: Server logged in
+[2023.03.21-18.45.23:513][592]PIE: Play in editor total start time 2,327 seconds.
+[2023.03.21-18.45.34:473][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-18.45.34:473][349]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.03.21-18.45.34:473][349]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-18.45.34:475][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-18.45.34:483][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-18.45.34:490][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-18.45.34:527][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-18.45.34:529][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.21-18.45.34:530][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.21-18.45.34:541][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.21-18.45.34:624][350]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.21-18.45.34:676][350]LogViewport: Scene viewport resized to 448x257, mode Windowed.
+[2023.03.21-18.45.35:177][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.45.35:357][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-18.45.35:394][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.21-18.45.35:482][353]LogSavePackage: Moving output files for package: /Game/Main
+[2023.03.21-18.45.35:483][353]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/Main42BD9647491B7E14784EC0A92023569A.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap'
+[2023.03.21-18.45.35:492][353]LogFileHelpers: Saving map 'Main' took 0.135
+[2023.03.21-18.45.35:530][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 2.75 sec)
+[2023.03.21-18.45.35:544][353]AssetCheck: New page: Asset Save: Main
+[2023.03.21-18.45.35:544][353]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.03.21-18.47.08:372][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.47.08:455][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_ThirdPersonCharacter" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.03.21-18.47.08:462][292]LogSavePackage: Moving output files for package: /Game/BP_ThirdPersonCharacter
+[2023.03.21-18.47.08:462][292]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/BP_ThirdPersonCharacterF005786D471DCD748757C0AA1CBE54FF.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset'
+[2023.03.21-18.47.08:477][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.86 sec)
+[2023.03.21-18.47.08:489][292]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.03.21-18.47.08:489][292]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.03.21-18.47.10:742][424]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.21-18.47.10:749][424]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.21-18.47.10:750][424]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.03.21-18.47.10:874][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.21-18.47.10:875][424]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2023.03.21-18.47.10:875][424]PIE: New page: PIE session: Main (21 mar. 2023 20:47:10)
+[2023.03.21-18.47.10:875][424]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.03.21-18.47.10:912][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036465s)
+[2023.03.21-18.47.10:912][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036511s)
+[2023.03.21-18.47.10:912][424]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.03.21-18.47.10:912][424]LogAIModule: Creating AISystem for world Main
+[2023.03.21-18.47.10:913][424]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2023.03.21-18.47.10:950][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.21-18.47.10:950][424]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.21-18.47.10:950][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.21-18.47.10:950][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-18.47.10:951][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-18.47.10:951][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-18.47.10:951][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-18.47.10:953][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.21-18.47.10:971][424]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (High Definition Audio Device)
+[2023.03.21-18.47.10:971][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-18.47.10:971][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-18.47.10:971][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-18.47.10:972][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.03.21-18.47.10:972][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.03.21-18.47.10:974][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.03.21-18.47.10:974][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.03.21-18.47.10:974][424]LogInit: FAudioDevice initialized.
+[2023.03.21-18.47.10:974][424]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.03.21-18.47.10:978][424]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.03.21-18.47.10:990][424]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.03.21-19.47.10
+[2023.03.21-18.47.13:017][424]LogWorld: Bringing up level for play took: 2.038848
+[2023.03.21-18.47.13:020][424]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.21-18.47.13:021][424]PIE: Server logged in
+[2023.03.21-18.47.13:022][424]PIE: Play in editor total start time 2,274 seconds.
+[2023.03.21-18.47.18:362][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-18.47.18:362][859]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.03.21-18.47.18:362][859]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-18.47.18:364][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-18.47.18:371][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-18.47.18:379][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-18.47.18:416][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-18.47.18:419][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.21-18.47.18:421][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.21-18.47.18:430][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.21-18.47.18:511][860]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.21-18.47.18:554][860]LogViewport: Scene viewport resized to 448x257, mode Windowed.
+[2023.03.21-18.47.19:496][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.21-18.47.19:569][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-18.47.19:606][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.21-18.47.19:688][899]LogSavePackage: Moving output files for package: /Game/Main
+[2023.03.21-18.47.19:689][899]LogSavePackage: Moving 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Saved/Main085CFC5E45DC3B69A3981A89DC142817.tmp' to 'D:/Data/Programming/Projects/Unreal Engine/ObstacleAssault/Content/Main.umap'
+[2023.03.21-18.47.19:698][899]LogFileHelpers: Saving map 'Main' took 0.129
+[2023.03.21-18.47.19:710][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 3.07 sec)
+[2023.03.21-18.47.19:720][899]AssetCheck: New page: Asset Save: Main
+[2023.03.21-18.47.19:720][899]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
